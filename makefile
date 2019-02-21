@@ -5,7 +5,7 @@ STARDICT_SANSKRIT_BIN=~/indic-dict/stardict-sanskrit/bin
 # make all DICTS=xyz
 DICTS=.*
 
-URL=https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/master/$(shell pwd|sed -e s/.*[/]//)/tars
+URL=https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/master/tars
 
 .PHONY: all stardict tars
 
