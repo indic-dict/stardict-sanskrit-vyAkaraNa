@@ -1,6 +1,6 @@
 STARDICT_TOOLS_DIR=~/stardict/tools/src/
 TABFILE=$(STARDICT_TOOLS_DIR)/tabfile
-DICT_TOOLS_BIN_BASH=~/indic-dict/stardict-sanskrit/bin
+DICT_TOOLS_BIN_BASH=~/dict-tools/bin/bash
 
 # make all DICTS=xyz
 DICTS=.*
