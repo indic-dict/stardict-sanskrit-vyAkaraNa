@@ -11,5 +11,6 @@
 
 
 # But not these files...
-!grammar-heritage_du_sanskrit_san-san
-!declension-inria
+!grammar-heritage_du_sanskrit_san-san/*
+!declension-inria/*
+
