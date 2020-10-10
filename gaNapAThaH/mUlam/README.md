@@ -1,2 +1,1 @@
-Regexes used to construct csv: ^([^.]+)([०-९]+) , \1`\2
-
+Regexes used to construct csv: ^([^.]+)([реж-реп]+) , \1`\2
