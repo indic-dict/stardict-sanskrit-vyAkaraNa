@@ -1,1 +1,0 @@
-Initial babylon file is generated using scripts in dict-tools/src/main/scala/sanskritnlp/dictionary/generators/cologne/krdantaRuupaMaalaa.scala .
