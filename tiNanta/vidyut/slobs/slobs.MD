@@ -1,0 +1,9 @@
+https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tiNanta/vidyut/slobs/vidyut-Nich-akartari__2023-12-04_05-37-12Z__52MB.slob  
+https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tiNanta/vidyut/slobs/vidyut-Nich-tiN__2023-12-04_05-37-12Z__70MB.slob  
+https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tiNanta/vidyut/slobs/vidyut-san-akartari__2023-12-04_05-37-12Z__49MB.slob  
+https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tiNanta/vidyut/slobs/vidyut-san-tiN__2023-12-04_05-37-12Z__55MB.slob  
+https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tiNanta/vidyut/slobs/vidyut-tiN-akartari__2023-12-04_16-03-14Z__33MB.slob  
+https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tiNanta/vidyut/slobs/vidyut-yaN-akartari__2023-12-04_05-37-12Z__29MB.slob  
+https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tiNanta/vidyut/slobs/vidyut-yaN-luk-akartari__2023-12-04_05-37-12Z__38MB.slob  
+https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tiNanta/vidyut/slobs/vidyut-yaN-luk-tiN__2023-12-04_05-37-12Z__33MB.slob  
+https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tiNanta/vidyut/slobs/vidyut-yaN-tiN__2023-12-04_05-37-12Z__28MB.slob  

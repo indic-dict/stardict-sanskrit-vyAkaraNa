@@ -1,0 +1,1 @@
+Regexes used to construct csv: ^([^.]+)([реж-реп]+) , \1`\2
