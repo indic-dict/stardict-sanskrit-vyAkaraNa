@@ -4,3 +4,4 @@
 
 https://sanskrit-coders.github.io/dictionaries/offline/
 
+find -type f -exec sed -i 's/||/|/g' {} +
