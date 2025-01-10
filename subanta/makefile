@@ -1,4 +1,5 @@
-SUBDIRS := $(wildcard */.)  # e.g. "foo/. bar/."
+# Temp - disable below.
+SUBDIRS := "" # $(wildcard */.)  # e.g. "foo/. bar/."
 TARGETS := full all tars tarlist  # whatever else, but must not contain '/'
 
 # foo/.all bar/.all foo/.clean bar/.clean
