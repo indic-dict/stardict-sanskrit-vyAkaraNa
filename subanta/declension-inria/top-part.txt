@@ -1,5 +1,0 @@
-
-#stripmethod=keep
-#sametypesequence=h
-#bookname=Declension INRIA
-
