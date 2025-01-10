@@ -1,33 +1,20 @@
-STARDICT_TOOLS_DIR=~/stardict/tools/src/
-TABFILE=$(STARDICT_TOOLS_DIR)/tabfile
-DICT_TOOLS_BIN_BASH=~/dict-tools/bin/bash
+SUBDIRS := $(wildcard */.)  # e.g. "foo/. bar/."
+TARGETS := full all tars tarlist  # whatever else, but must not contain '/'
 
-# make all DICTS=xyz
-DICTS=.*
-OVERWRITE=false
-GITHUB_TOKEN=NONE
+# foo/.all bar/.all foo/.clean bar/.clean
+SUBDIRS_TARGETS := $(foreach t,$(TARGETS),$(addsuffix $t,$(SUBDIRS)))
 
-# Let the URL not end with /.
-URL=https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/$(shell pwd|sed -e s/.*[/]//)/tars
+.PHONY : $(TARGETS) $(SUBDIRS_TARGETS)
 
-.PHONY: all stardict tars
+# static pattern rule, expands into:
+# all clean : % : foo/.% bar/.%
+$(TARGETS) : % : $(addsuffix %,$(SUBDIRS))
+	@echo 'Done "$*" target'
 
-all:final_babylon stardict tars
+# here, for foo/.all:
+#   $(@D) is foo
+#   $(@F) is .all, with leading period
+#   $(@F:.%=%) is just all
+$(SUBDIRS_TARGETS) :
+	$(MAKE) -C $(@D) $(@F:.%=%)
 
-final_babylon:
-	bash $(DICT_TOOLS_BIN_BASH)/babylon_add_optitrans.sh DICTS=$(DICTS)
-
-stardict:
-	bash $(DICT_TOOLS_BIN_BASH)/tsv_to_stardict.sh DICTS=$(DICTS)
-
-
-tars:
-	bash $(DICT_TOOLS_BIN_BASH)/make_tarballs.sh $(URL) DICTS=$(DICTS)
-
-full:
-	bash $(DICT_TOOLS_BIN_BASH)/full_build.sh $(URL) DICTS=$(DICTS) GITHUB_TOKEN=$(GITHUB_TOKEN) overwrite=$(OVERWRITE)
-mkfile_path := $(abspath $(lastword $(MAKEFILE_LIST)))
-current_dir := $(dir $(mkfile_path))
-# Let the URL not end with /.
-tarlist:
-	bash $(DICT_TOOLS_BIN_BASH)/update_tars_md.sh $(current_dir)tars $(URL)
