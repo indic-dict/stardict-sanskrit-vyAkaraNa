@@ -1,4 +1,5 @@
-SUBDIRS := $(filter-out vidyut, wildcard */.)  # e.g. "foo/. bar/." Temp disabling.
+SUBDIRS := $(filter-out vidyut, $(wildcard */.))  # Temp disabling.
+# SUBDIRS := $(wildcard */.)  # e.g. "foo/. bar/."
 TARGETS := full all tars tarlist  # whatever else, but must not contain '/'
 
 # foo/.all bar/.all foo/.clean bar/.clean
