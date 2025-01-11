@@ -1,5 +1,5 @@
-# SUBDIRS := $(shell find . -maxdepth 1 -type d ! -name vidyut_hal ! -name .)  # Temp disabling.
-SUBDIRS := $(wildcard */.)  # e.g. "foo/. bar/."
+SUBDIRS := $(shell find . -maxdepth 1 -type d ! -name vidyut_hal ! -name .)  # Temp disabling.
+# SUBDIRS := $(wildcard */.)  # e.g. "foo/. bar/."
 TARGETS := full all tars tarlist  # whatever else, but must not contain '/'
 
 # foo/.all bar/.all foo/.clean bar/.clean
