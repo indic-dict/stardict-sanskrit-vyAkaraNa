@@ -1,0 +1,10 @@
+https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tiNanta/vidyut/tars/vidyut-Nic-san-tiN-akartari__2025-01-11_15-04-16Z__5MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tiNanta/vidyut/tars/vidyut-Nic-tiN-akartari__2025-01-11_15-04-16Z__5MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tiNanta/vidyut/tars/vidyut-san-Nic-tiN-akartari__2025-01-11_15-04-16Z__7MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tiNanta/vidyut/tars/vidyut-san-akartari__2024-12-30_02-39-48Z__4MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tiNanta/vidyut/tars/vidyut-san-tiN-akartari__2025-01-11_15-04-16Z__6MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tiNanta/vidyut/tars/vidyut-tiN-akartari__2025-01-11_15-04-16Z__4MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tiNanta/vidyut/tars/vidyut-yaN-akartari__2024-12-30_02-39-48Z__3MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tiNanta/vidyut/tars/vidyut-yaN-luk-akartari__2024-12-30_02-39-48Z__4MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tiNanta/vidyut/tars/vidyut-yaN-luk-tiN-akartari__2025-01-12_07-27-02Z__5MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/tiNanta/vidyut/tars/vidyut-yaN-tiN-akartari__2025-01-12_07-27-02Z__4MB.tar.gz  

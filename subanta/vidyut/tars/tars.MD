@@ -1,0 +1,10 @@
+https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/subanta/vidyut/tars/vidyut-subanta-Tu__2025-01-23_04-22-56Z__0MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/subanta/vidyut/tars/vidyut-subanta-a__2025-01-23_04-22-56Z__6MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/subanta/vidyut/tars/vidyut-subanta-chu__2025-01-23_04-22-56Z__1MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/subanta/vidyut/tars/vidyut-subanta-i__2025-01-23_04-22-56Z__0MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/subanta/vidyut/tars/vidyut-subanta-ku__2025-01-23_04-22-56Z__4MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/subanta/vidyut/tars/vidyut-subanta-pu__2025-01-23_04-22-56Z__11MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/subanta/vidyut/tars/vidyut-subanta-shal__2025-01-23_04-22-56Z__11MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/subanta/vidyut/tars/vidyut-subanta-tu1__2025-01-23_04-22-56Z__6MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/subanta/vidyut/tars/vidyut-subanta-uch__2025-01-23_04-22-56Z__2MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit-vyAkaraNa/raw/gh-pages/subanta/vidyut/tars/vidyut-subanta-yrlv__2025-01-23_04-22-56Z__7MB.tar.gz  
